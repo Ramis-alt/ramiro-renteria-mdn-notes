@@ -1,6 +1,6 @@
 //SEQUENCING ANIMATIONS ASSESMENT:
 /*
-the element.animate() is being used here to animate the
+the element.animate() is being used here to animate the image
 */
 const swirlyTumbling = [
     { transform: 'rotate(0) scale(1)' },
